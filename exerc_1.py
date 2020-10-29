@@ -3,6 +3,7 @@
 ##	o produto do dobro do primeiro com metade do segundo .
 ##	a soma do triplo do primeiro com o terceiro.
 ##	o terceiro elevado ao cubo.
+## Primeiro exercício realizado em Python.
 
 num1 = int(input(' Digite aqui um número inteiro : '))
 num2 = int(input(' Digite aqui um número inteiro  : '))
@@ -15,8 +16,6 @@ print(' O produto do dobro do primeiro com metade do segundo é : %s' % conv1)
 print(' A soma do triplo do primeiro com o terceiro é : %s ' % conv2)
 print(' O terceiro elevado ao cubo é : %s' % conv3)
 
-
-```
 
 
 
