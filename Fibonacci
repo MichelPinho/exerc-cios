@@ -1,0 +1,14 @@
+# ESCREVA UM PROGRAMA QUE LEIA UM NÚMERO INTEIRO, DEPOIS APRESENTE UM QUANTIDADE X DOS PRIMEIROS ELEMENTOS DE
+# UMA SEQUÊNCIA DE FIBONACCI
+# FÓRMULA : Fn = Fn - 1 + Fn - 2
+# EX: 0 -> 1 -> 1 -> 2 -> 3 -> 5 -> 8
+
+n1 = int(input('Informe quantos termos da sequencia de Fibonacci você deseja descobrir -> '))
+x = 1
+y = 1
+while x == n1:
+    if x == 1:
+        print(x + y)
+    else
+        print('1')
+        
